@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: school-site-cross
+    env: docker
+    plan: free
